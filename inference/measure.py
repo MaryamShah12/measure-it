@@ -60,7 +60,7 @@ def main():
     ap.add_argument("--calibration", default="calibration/calibration.npz")
     ap.add_argument("--output", default=None)
     ap.add_argument("--square-mm", type=float, default=20.0)
-    ap.add_argument("--size", type=int, default=256)
+    ap.add_argument("--size", type=int, default=512)
     ap.add_argument("--no-undistort", action="store_true")
     args = ap.parse_args()
 
