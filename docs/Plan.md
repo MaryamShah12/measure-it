@@ -26,7 +26,7 @@ Labelling: 4 corners per photo, filled polygon mask. Each polygon was checked ag
 
 ## Model
 
-U-Net with a pretrained ResNet34 encoder, one class, notebook versus background. Not YOLO and not Roboflow. Reason: small dataset, pretrained backbone, fast on Colab T4.
+U-Net with a pretrained ResNet18 encoder, one class, notebook versus background. Not YOLO and not Roboflow. Reason: small dataset, pretrained backbone, fast on Colab T4. ResNet18 was chosen over ResNet34 so the saved weights stay under the GitHub 100 MB file limit. The task is a simple blue shape on a light floor, so the smaller encoder is enough.
 
 Training: Colab T4, seed fixed, config pinned in the training script when it is added.
 
