@@ -7,5 +7,5 @@
 - [x] Undistortion comparison reported. Undistorted mean absolute error 3.76 mm, raw mean absolute error 4.51 mm, on the same 10 photos.
 - [x] Target met or missed, with reason written down. MO-1 met (3.76 mm, 2.05 percent, target 5 mm and 3 percent). MO-2 met (mean IoU 0.9841, target 0.90). mAP@0.5 and mAP@0.5:0.95 were not computed, so that part of item 3 is not met.
 - [x] Everything not finished listed, with why. Item 7: no speed or accuracy target was set and measured, no timing runs were done. Item 8: no formal breaking condition test was run; the touching and 256 pixel failures are recorded as observed failures only. Item 9: refusal behaviour exists in code, but thresholds were not tuned and the cost in refused images was not counted. Item 3, mAP metrics: not computed by the training script.
-- [ ] Loom 5 minutes or less. Link: to be added.
+- [x] Loom 5 minutes or less. Link: to be added. Link: https://www.loom.com/share/a2992687ec6b49039a6c937a79a0bcbf (4:36)
 - [ ] Pull request link: to be added.
