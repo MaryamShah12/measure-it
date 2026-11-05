@@ -1,0 +1,70 @@
+{
+ "truth_mm": [
+  204,
+  158
+ ],
+ "size": 512,
+ "undistorted": false,
+ "results": [
+  {
+   "image": "gap_001.jpg",
+   "width_mm": 196.8,
+   "height_mm": 151.4,
+   "confidence": 0.961
+  },
+  {
+   "image": "gap_002.jpg",
+   "width_mm": 196.5,
+   "height_mm": 152.3,
+   "confidence": 0.958
+  },
+  {
+   "image": "gap_003.jpg",
+   "width_mm": 195.9,
+   "height_mm": 155.2,
+   "confidence": 0.974
+  },
+  {
+   "image": "gap_004.jpg",
+   "width_mm": 195.6,
+   "height_mm": 158.0,
+   "confidence": 0.977
+  },
+  {
+   "image": "gap_005.jpg",
+   "width_mm": 197.9,
+   "height_mm": 153.7,
+   "confidence": 0.977
+  },
+  {
+   "image": "gap_006.jpg",
+   "width_mm": 202.9,
+   "height_mm": 158.1,
+   "confidence": 0.963
+  },
+  {
+   "image": "gap_007.jpg",
+   "width_mm": 198.9,
+   "height_mm": 159.9,
+   "confidence": 0.967
+  },
+  {
+   "image": "gap_008.jpg",
+   "width_mm": 200.8,
+   "height_mm": 160.2,
+   "confidence": 0.962
+  },
+  {
+   "image": "gap_009.jpg",
+   "width_mm": 197.3,
+   "height_mm": 153.9,
+   "confidence": 0.978
+  },
+  {
+   "image": "gap_010.jpg",
+   "width_mm": 197.3,
+   "height_mm": 155.5,
+   "confidence": 0.979
+  }
+ ]
+}
